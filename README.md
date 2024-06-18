@@ -21,7 +21,7 @@ This addon simplifies the process by allowing users to describe the desired faci
 ## Installation Windows
 
 1. **Download the Portable Blender Version with the Addon**
-   - [Download Here](link-to-release-page)
+   - [Download Here](https://github.com/locoxsoco/vrm-ai-emotions/releases/tag/v0.1.1)
 
 2. **Unzip and Use**
    - Unzip the downloaded file.
@@ -49,7 +49,8 @@ This addon simplifies the process by allowing users to describe the desired faci
 
 Check out this demo to see the addon in action!
 
-![Demo Video](videos/demo.mp4)
+https://github.com/locoxsoco/vrm-ai-emotions/assets/29546841/d6c62074-7ac3-46cb-8d77-468684f7a4c6
+
 
 In this demo, we demonstrate how to create a series of facial expressions using simple text prompts. You'll see how the addon interprets each prompt and generates realistic facial animations for a VRM avatar.
 
